@@ -10,21 +10,21 @@ const styles = theme => ({
   },
   leftColumn: {
     height: "100%",
-    width: "45%",
+    width: "45vw",
     display: "flex",
     justifyContent: "center",
     alignItems: "center"
   },
   rightColumn: {
     height: "100%",
-    width: "45%",
+    width: "45vw",
     display: "flex",
     justifyContent: "center",
     alignItems: "center"
   },
   midColumn: {
     height: "100%",
-    width: "10%",
+    width: "10vw",
     display: "flex",
     justifyContent: "center",
     alignItems: "center"
